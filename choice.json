@@ -78,6 +78,15 @@
       "0",
       "5"
     ],
-    "Question": "log₂(2^log₂x) = 1"
+    "Question": "log₂(x^log₂x) = 1"
+  },
+  {
+    "Choic" : [
+      "1",
+      "2",
+      "5",
+      "10"
+    ],
+    "Question": "log₃(x-2/3) = -1"
   }
 ]
